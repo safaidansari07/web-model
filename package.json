@@ -1,7 +1,7 @@
 {
-  "name": "js-modal",
+  "name": "simple-js-modal",
   "version": "1.0.0",
-  "description": "A simple modal you can use this model anywhere in your frontend ",
+  "description": "A simple Modal you can use anywhere in your frontend ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/safaidansari07/web-model.git"
   },
-  "author": "Safaid_Ansari",
+  "author": "SafaidAnsari",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/safaidansari07/web-model/issues"
